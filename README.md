@@ -1,1 +1,2 @@
 # Twitter-Sentiment-Analysis
+Sentiment analysis using the tweets extracted from twitter on the topic "Online classes during COVID". This project was part of a course for MSc Data Science. The project made use of tweepy for extracting tweets. Textblob was used for analyzing tweet polarity. Text preprocessing along with feature extraction was also performed. Machline learning classifiers were then used on the data. 
